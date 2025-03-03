@@ -1,6 +1,6 @@
 # tech-layoffs-sql-project
 
-SQL Data Cleaning Project - Tech Layoffs Dataset
+**SQL Data Cleaning Project - Tech Layoffs Dataset**
 
 Overview
 
